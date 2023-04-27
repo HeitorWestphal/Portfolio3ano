@@ -1,0 +1,2 @@
+Não consegui pegar o app dessa autoria, por isso vou estar utilizando de autoria no lugar desse app um código que fiz em Java para calcular o princípio de Bernoulli, esse calculo é bastante importante para o pessoal da F1 in schools.
+Link repositorio GitHub: https://github.com/HeitorWestphal/F1inSchoolsCodes/blob/main/Bernoulli%20principle
